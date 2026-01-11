@@ -1,0 +1,99 @@
+Design a luxury, modern fashion brand website for the brand DUDDUEL.
+
+Brand Positioning:
+DUDDUEL is a premium menswear & fashion brand that represents power, craftsmanship, modern royalty, and quiet confidence. The brand blends classic tailoring with contemporary design, appealing to men who value elegance, strength, and individuality.
+
+Target Audience:
+Men aged 22–45, fashion-conscious professionals, entrepreneurs, creatives, and modern gentlemen who appreciate luxury tailoring and minimal aesthetics.
+
+Visual Style:
+
+Minimal, bold, editorial-style layout
+
+Dark luxury palette (black, charcoal, deep brown, ivory accents)
+
+High contrast typography
+
+Clean grids, large white space
+
+Cinematic hero sections
+
+Premium feel similar to luxury fashion houses
+
+Typography:
+
+Strong serif or modern luxury serif for headings
+
+Clean sans-serif for body text
+
+Confident, spaced letterforms
+
+Website Structure & Sections:
+
+Hero Section
+
+Full-screen visual with bold headline
+
+Tagline example: “Crafted for Power. Worn with Purpose.”
+
+Call-to-action buttons: Explore Collection | Our Philosophy
+
+About DUDDUEL
+
+Story of craftsmanship, strength, and modern tailoring
+
+Emphasis on detail, fabric quality, and design philosophy
+
+Collections / Products
+
+Premium suits, jackets, shirts, and essentials
+
+Grid layout with hover animations
+
+Product pages with fabric details and fit description
+
+Craftsmanship / Philosophy
+
+Focus on tailoring precision, materials, and timeless design
+
+Editorial layout with imagery and short statements
+
+Lookbook / Editorial
+
+Full-width images
+
+Minimal captions
+
+Customization / Bespoke (if applicable)
+
+Explain made-to-measure or premium services
+
+Contact / Store Info
+
+Clean contact form
+
+Social media links
+
+Footer
+
+Brand statement
+
+Navigation
+
+Newsletter signup
+
+Micro-Interactions & Animations:
+
+Smooth scroll
+
+Fade-in sections
+
+Subtle hover effects
+
+Luxury, slow transitions
+
+Tone of Voice:
+Confident, refined, understated, powerful — no loud marketing language.
+
+Overall Goal:
+The website should feel like a luxury fashion editorial, not a typical e-commerce site. It must communicate authority, exclusivity, and timeless style.
