@@ -1,0 +1,36 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build client for GitHub Pages
+        # build only the client into dist/public with base = /{repo}/
+        run: npm run build:client
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_dir: ./dist/public
+          publish_branch: gh-pages
+          # use the GITHUB_TOKEN provided by Actions (no extra secret needed)
+          github_token: ${{ secrets.GITHUB_TOKEN }}
